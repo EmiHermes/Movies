@@ -1,5 +1,5 @@
 # Movies
- Create a file with the names of the films in this directory
+ Creates a file with the names of the films in this directory
 
 All the movies with this extension:
   - "*.mkv|*.avi|*.mp4|*.flv"
